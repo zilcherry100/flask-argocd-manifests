@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: flask-api
-        image: zilcherry100/flask-api:v0.0.0-bc8b80d75e960980100ed10772ff914571d8210d
+        image: zilcherry100/flask-api:v0.0.0-fb87e5b6d945629dc3dd26ee720a64604705c488
         ports:
         - containerPort: 5000
 ---
